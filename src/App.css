@@ -1,0 +1,47 @@
+/* src/index.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+
+/* src/App.css */
+.main-content {
+    margin-left: 307px;
+    padding: 20px;
+    width: 82%;
+    height: 100vh;
+  }
+  
+  .Navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure it sits above other content */
+  }
+
+  .Dashboard {
+    margin-left: 308px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    p{
+      margin: 0;
+      font-weight: bold;
+      font-size: 30px;
+    };
+    .Icon{
+      font-size: 35px;
+      color: #071952;
+    }
+  }
+
+  .user-nav:hover {
+    cursor: pointer;
+  }
+
+  

@@ -1,0 +1,298 @@
+{
+  "Leptop": [
+    {
+      "id": "1",
+      "name": "MSI GF63 THIN 11SC",
+      "image": "/assets/image/LeptopMsi.png",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "2",
+      "name": "MSI GF63 THIN 11SC",
+      "image": "/assets/image/LeptopMsi.png",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "MSI GF63 THIN 11SC",
+      "image": "/assets/image/LeptopMsi.png",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "4",
+      "name": "Asus ExpertBook",
+      "image": "/assets/image/Leptop.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Asus ExpertBook",
+      "image": "/assets/image/Leptop.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "Asus ExpertBook",
+      "image": "/assets/image/Leptop.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "7",
+      "name": "Acer Aspire 5",
+      "image": "/assets/image/LeptopAcer.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "8",
+      "name": "Acer Aspire 5",
+      "image": "/assets/image/LeptopAcer.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "9",
+      "name": "Axio MyBook Pro",
+      "image": "/assets/image/LeptopAxio.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "10",
+      "name": "Axio MyBook Pro",
+      "image": "/assets/image/LeptopAxio.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "11",
+      "name": "Axio MyBook Pro",
+      "image": "/assets/image/LeptopAxio.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "12",
+      "name": "Axio MyBook Pro",
+      "image": "/assets/image/LeptopAxio.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "13",
+      "name": "Axio MyBook Pro",
+      "image": "/assets/image/LeptopAxio.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "14",
+      "name": "Asus Touchscreen S451LB",
+      "image": "/assets/image/LeptopAsusS451L.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": false
+    },
+    {
+      "id": "15",
+      "name": "Asus Touchscreen S451LB",
+      "image": "/assets/image/LeptopAsusS451L.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": true
+    },
+    {
+      "id": "16",
+      "name": "Asus P24 Hitam",
+      "image": "/assets/image/LeptopAsusP24.jpg",
+      "processor": "Intel Core i5-11800H",
+      "ram": "8GB DDR4",
+      "grafis": "GTX1650 Max Q",
+      "disk": "512GB NVMe PCIe Gen3x4 SSD",
+      "status": true
+    }
+  ],
+  "Transaction": [
+    {
+      "id": "e6b9",
+      "customer": "Repi Kristianto",
+      "nip": "367405201996002",
+      "email": "repi.kristianto@gmail.com",
+      "telfon": "087516288172",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "14",
+      "leptop": "Asus Touchscreen S451LB"
+    },
+    {
+      "id": "28b9",
+      "customer": "Roni Aldo",
+      "nip": "367408201762005",
+      "email": "roni.aldo@ecampus.ut.ac.id",
+      "telfon": "086571822162",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "13",
+      "leptop": "Axio MyBook Pro"
+    },
+    {
+      "id": "80fb",
+      "customer": "Klarisa",
+      "nip": "365417201776007",
+      "email": "klarisa@gmail.com",
+      "telfon": "089212477162",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "12",
+      "leptop": "Axio MyBook Pro"
+    },
+    {
+      "id": "aa7c",
+      "customer": "Klinik Pratama UT",
+      "nip": "1",
+      "email": "klinik.ut@ecampus.ut.ac.id",
+      "telfon": "1981",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "11",
+      "leptop": "Axio MyBook Pro"
+    },
+    {
+      "id": "ff6c",
+      "customer": "Klinik Pratama UT",
+      "nip": "2",
+      "email": "klinik.ut@ecampus.ut.ac.id",
+      "telfon": "1984",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "10",
+      "leptop": "Axio MyBook Pro"
+    },
+    {
+      "id": "033d",
+      "customer": "Idang Faturachman",
+      "nip": "36716201917008",
+      "email": "idang@ecampus.ut.ac.id",
+      "telfon": "087616299746",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "8",
+      "leptop": "Acer Aspire 5"
+    },
+    {
+      "id": "4b5b",
+      "customer": "Noval",
+      "nip": "365407201798001",
+      "email": "noval@ecampus.ut.ac.id",
+      "telfon": "085617266152",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "7",
+      "leptop": "Acer Aspire 5"
+    },
+    {
+      "id": "362e",
+      "customer": "Unggul Utan Sufandi",
+      "nip": "340107261894006",
+      "email": "unggulusa@ecampus.ut.ac.id",
+      "telfon": "087193812912",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "9",
+      "leptop": "Axio MyBook Pro"
+    },
+    {
+      "id": "691f",
+      "customer": "Minrohayari",
+      "nip": "367530172891664",
+      "email": "minrohayati@ecampus.ut.ac.id",
+      "telfon": "086541622712",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "6",
+      "leptop": "Asus ExpertBook"
+    },
+    {
+      "id": "f58f",
+      "customer": "Noval",
+      "nip": "365407201798001",
+      "email": "noval@ecampus.ut.ac.id",
+      "telfon": "085617266152",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "3",
+      "leptop": "MSI GF63 THIN 11SC"
+    },
+    {
+      "id": "826f",
+      "customer": "Faisal Hanif",
+      "nip": "367406201098008",
+      "email": "fhanif665@gmail.com",
+      "telfon": "089651688182",
+      "unit": "PPBI",
+      "date": "2024-08-05",
+      "productId": "2",
+      "leptop": "MSI GF63 THIN 11SC"
+    },
+    {
+      "id": "1d51",
+      "customer": "jhiem",
+      "nip": "367201291876008",
+      "email": "Jhiem@gmail.com",
+      "telfon": "08629861192",
+      "unit": "Pensiunan P2BAM",
+      "date": "2024-08-05",
+      "productId": "1",
+      "leptop": "MSI GF63 THIN 11SC"
+    }
+  ]
+}
